@@ -4,7 +4,7 @@
 
 
 - 👩‍💻 Iniciando na programação back-end
-- ✨ Estudando Python
+- ✨ Estudando Python e MySQL
 - 😄 Pronouns: ela/dela
 
   <img align="right" alt="Hiallys-icone" height="150" width="150" src="GIF GITHUB.gif">
