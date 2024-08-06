@@ -3,8 +3,8 @@
 
 
 
-- 👩‍💻 Iniciando na programação back-end
-- ✨ Estudando Python e MySQL
+- 👩‍💻 Iniciando na programação
+- ✨Graduando Análise e desenvolvimento de sistemas - UNINASSAU
 - 😄 Pronouns: ela/dela
 
   <img align="right" alt="Hiallys-icone" height="150" width="150" src="GIF GITHUB.gif">
