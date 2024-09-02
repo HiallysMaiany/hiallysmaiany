@@ -4,7 +4,7 @@
 
 
 - 👩‍💻 Iniciando na programação
-- ✨Graduando Análise e desenvolvimento de sistemas - UNINASSAU
+- ✨Graduando Ciências da Computação - UNOPAR
 - 😄 Pronouns: ela/dela
 
   <img align="right" alt="Hiallys-icone" height="150" width="150" src="GIF GITHUB.gif">
